@@ -1,2 +1,3 @@
-# CS50-Problem_sets
-Repository which includes code for Harvard's course CS50X problem sets
+PSET 1 -  
+Description to the problem(Movies)-- https://cs50.harvard.edu/x/2020/psets/7/movies/
+Description to the problem(Houses)-- https://cs50.harvard.edu/x/2020/psets/7/houses/
