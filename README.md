@@ -1,2 +1,2 @@
-# CS50-Problem_sets
-Repository which includes code for Harvard's course CS50X problem sets
+PSET 1 - Arrays 
+Description to the problem -- https://cs50.harvard.edu/x/2020/psets/2/readability/
