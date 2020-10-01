@@ -1,2 +1,3 @@
-# CS50-Problem_sets
-Repository which includes code for Harvard's course CS50X problem sets
+PSET 4 - Memory 
+Description to the problem(Filter/more comfortable) -- https://cs50.harvard.edu/x/2020/psets/4/filter/more/
+Description to the problem(Recover) -- https://cs50.harvard.edu/x/2020/psets/4/recover/
