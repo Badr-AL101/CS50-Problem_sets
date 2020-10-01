@@ -1,2 +1,2 @@
-# CS50-Problem_sets
-Repository which includes code for Harvard's course CS50X problem sets
+PSET 6 - Python 
+Description to the problem -- https://cs50.harvard.edu/x/2020/psets/6/dna/
